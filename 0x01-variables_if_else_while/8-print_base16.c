@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-	int n
+	int n;
 
 	for (n = 0; n <= 16; n++)
 		putchar((n % 16) + '0');
