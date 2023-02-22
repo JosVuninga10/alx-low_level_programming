@@ -4,7 +4,7 @@
  * by joseph vuninga
  * Return: 0
  */
-int main (void)
+int main(void)
 {
 	char letter;
 
