@@ -4,7 +4,7 @@
  * by joseph vuninga
  * Return: 0
  */
-void main(void)
+void print_alphabet(void)
 {
 	char letter;
 
