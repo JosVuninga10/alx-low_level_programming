@@ -1,6 +1,7 @@
 #include "main.h"
 /**
- * main - print a screen in reverse followed by new line
+ * print_rev - print a screen in reverse followed by new line
+ * @s: the spring to be printed in reverse
  * By Joseph Vuninga
  * Return: 0
  */
